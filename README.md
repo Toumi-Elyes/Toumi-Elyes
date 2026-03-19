@@ -1,9 +1,10 @@
-<!-- HEADER -->
-<h1 align="center">Hi 👋 I'm Elyes Toumi</h1>
-<h3 align="center">Backend Engineer • Full-Stack Developer • Ironman Athlete</h3>
+<!-- ====================== HEADER / TYPING BANNER ====================== -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋+I'm+Elyes+Toumi;Backend+Engineer+•+Fullstack+Developer;Full+Ironman+Athlete;Building+Scalable+Systems+%26+Products&center=true&size=28&duration=3000&pause=1000&color=0D1117&width=600&height=80" alt="Typing Banner" />
+</p>
 
 <p align="center">
-Building scalable systems, products, and pushing human performance.
+Building scalable backend systems, fullstack products, and pushing human performance.
 </p>
 
 ---
