@@ -95,8 +95,6 @@ Relentless improvement.
 
 ---
 
-- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Toumi-Elyes)
-
 # 📫 Connect With Me
 
 <p align="center">
