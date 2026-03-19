@@ -61,17 +61,17 @@ I approach software engineering the same way I approach endurance sports:
 ### Backend Engineer @ WeWard
 
 - Designed **high-scale notification systems**
-- Built infrastructure for **CRM & transactional push notifications**
+- Built strong infrastructure for **push notifications**
 - Developed **analytics and statistics pipelines**
 - Improved **user engagement systems**
 
 ---
 
-### Startup Builder — Ollamy
+### Project Builder — Ollamy
 
 EdTech platform including:
 
-- 🧑‍🏫 **Ollamy Maker** – teacher platform
+- 🧑‍🏫 **Maker** – teacher platform
 - 📱 **Gamified mobile learning app**
 - 📊 engagement-focused product design
 
