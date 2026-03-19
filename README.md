@@ -93,6 +93,8 @@ Relentless improvement.
 - Building startups product
 - Performance optimization
 
+- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Toumi-Elyes)
+
 ---
 
 # 📫 Connect With Me
