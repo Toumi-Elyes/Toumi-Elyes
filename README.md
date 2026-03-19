@@ -83,8 +83,6 @@ Engineering performance and endurance sports share the same principles.
 
 Relentless improvement.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Toumi-Elyes&show_icons=true&theme=tokyonight)
-
 ---
 
 # 🧠 Current Focus
