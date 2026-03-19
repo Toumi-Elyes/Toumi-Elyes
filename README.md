@@ -66,3 +66,69 @@ EdTech platform including:
 # 🏊 Ironman Athlete Mindset
 
 Engineering performance and endurance sports share the same principles.
+
+Relentless improvement.
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Toumi-Elyes&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toumi-Elyes&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 Contribution Activity
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Toumi-Elyes&theme=tokyonight"/>
+</p>
+
+---
+
+# 📈 GitHub Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Toumi-Elyes&theme=tokyo-night"/>
+</p>
+
+---
+
+# 🧠 Current Focus
+
+- Distributed backend systems
+- High-volume data architectures
+- Developer tooling
+- Building startups
+- Performance optimization
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/Toumi-Elyes">
+<img src="https://img.shields.io/badge/Github-000?style=for-the-badge&logo=github">
+</a>
+
+<a href="https://www.linkedin.com/in/elyes-toumi/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
+</a>
+
+</p>
+
+---
+
+<p align="center">
+🔥 Always building • Always improving
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Toumi-Elyes&color=blue">
+</p>
