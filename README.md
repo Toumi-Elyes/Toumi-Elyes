@@ -95,6 +95,10 @@ Relentless improvement.
 
 # 📫 Connect With Me
 
+<a href="mailto:elyes.toumi.dev@gmail.com">
+<img src="https://img.shields.io/badge/Email-elyes.toumi.dev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
 <a href="https://github.com/Toumi-Elyes">
 <img src="https://img.shields.io/badge/Github-000?style=for-the-badge&logo=github">
 </a>
