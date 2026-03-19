@@ -20,6 +20,8 @@ I approach software engineering the same way I approach endurance sports:
 
 **discipline • iteration • optimization • performance**
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Toumi-Elyes&show_icons=true&theme=tokyonight&count_private=true)
+
 ---
 
 # 🧑‍💻 Tech Stack
