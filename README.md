@@ -65,8 +65,6 @@ I approach software engineering the same way I approach endurance sports:
 - Developed **analytics and statistics pipelines**
 - Improved **user engagement systems**
 
----
-
 ### Project Builder — Ollamy
 
 EdTech platform including:
